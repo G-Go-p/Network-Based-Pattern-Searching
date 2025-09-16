@@ -42,7 +42,7 @@ Finds lines containing the word.
 
 ## Clone repository:
 
-git clone https://github.com/your-username/network-pattern-search.git
+git clone https://github.com/G-Go-p/Network-Based-Pattern-Searching
 cd network-pattern-search
 
 
